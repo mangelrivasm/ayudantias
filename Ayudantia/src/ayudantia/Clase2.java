@@ -11,6 +11,7 @@ package ayudantia;
  */
 public class Clase2 {
     public static void main(String args[]){
-        System.out.println("hola soy tu companero");
+        System.out.println("hola soy tu companer");
+        System.out.println("segundo print");
     }
 }
